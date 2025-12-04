@@ -73,6 +73,7 @@ Client (Postman / Frontend)
             v
      MySQL Database
      (Persistent storage)
+```
 
 ---
 
