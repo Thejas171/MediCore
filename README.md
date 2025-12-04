@@ -21,30 +21,30 @@ It automates essential hospital workflows such as doctor management, patient rec
 ## 🚀 Features
 
 ### 👨‍⚕️ Doctor Management
-- Add, edit, delete, and view doctor profiles  
-- Store specialization, phone, and email  
-- Ensures structured and validated data
+- Add, edit, delete, and view doctor profiles.  
+- Store specialization, phone, and email.  
+- Ensures structured and validated data.
 
 ### 👤 Patient Management
-- Register new patients  
-- Update age, gender, and contact details  
-- Maintain long-term patient records
+- Register new patients.
+- Update age, gender, and contact details.
+- Maintain long-term patient records.
 
 ### 📅 Appointment Management
-- Schedule appointments between doctor and patient  
-- Prevent double-booking using business logic and constraints  
-- Fetch appointments by doctor or by patient  
-- Update appointment status (BOOKED, COMPLETED, CANCELLED)
+- Schedule appointments between doctor and patient.
+- Prevent double-booking using business logic and constraints.
+- Fetch appointments by doctor or by patient.  
+- Update appointment status.
 
 ### 💊 Prescription Management
-- Create prescriptions linked to specific appointments  
-- Store medicines, dosage, and clinical notes  
-- One-to-one mapping ensures accurate medical documentation
+- Create prescriptions linked to specific appointments.  
+- Store medicines, dosage, and clinical notes.  
+- One-to-one mapping ensures accurate medical documentation.
 
 ### 💳 Payment Management
-- Record payments for completed appointments  
-- Track amount, method, and payment status  
-- Ensures exactly one payment per appointment
+- Record payments for completed appointments.  
+- Track amount, method, and payment status.  
+- Ensures exactly one payment per appointment.
 
 ---
 
