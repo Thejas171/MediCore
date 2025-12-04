@@ -55,6 +55,7 @@ This ensures clear separation of concerns, scalability, and easier maintenance.
 
 ### 🔄 High-Level Flow
 
+```plaintext
 Client (Postman / Frontend)
             |
             v
